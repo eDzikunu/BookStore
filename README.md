@@ -16,9 +16,8 @@ Database: MongoDB
 HTTP Client: Axios
 Middleware: CORS
 Learning Outcomes
-This project taught me:
 
-How to set up and connect a MongoDB database to a Node.js backend.
+This project taught me how to set up and connect a MongoDB database to a Node.js backend.
 The process of creating and managing MongoDB schemas.
 The fundamentals of handling RESTful API requests using Axios.
 Setting up a React frontend to interact with the backend.
